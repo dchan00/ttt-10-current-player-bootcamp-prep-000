@@ -4,4 +4,5 @@ def turn_count(board)
     if(slot=='X' || slot=='O')
       counter++
     end
+  end
 end
